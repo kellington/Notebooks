@@ -11,3 +11,8 @@ These can all be run using [![Binder](http://mybinder.org/badge.svg)](http://myb
 
 
 Rob
+
+
+## Links
+1. OSCON - https://youtu.be/JI1HWUAyJHE
+2. 
