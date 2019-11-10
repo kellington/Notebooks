@@ -1,0 +1,19 @@
+
+
+https://data.edmonton.ca
+<!--
+Powered by the Socrata Open Data Platform
+http://www.socrata.com
+-->
+
+https://dev.socrata.com
+
+https://data.edmonton.ca/City-Administration/Property-Assessment-Data/q7d6-ambg
+https://data.edmonton.ca/resource/3pdp-qp95.json
+https://data.edmonton.ca/resource/3pdp-qp95.csv
+
+
+
+
+
+
